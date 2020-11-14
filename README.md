@@ -7,6 +7,13 @@ Credits:  yausername (GitHub) <a href="https://github.com/yausername/youtubedl-a
 
 License: Icons and Other Content Under <br /> Creative Commons and Apache License, Version 2.0
 
+<h1><strong>Download DownTube</strong></h1>
+
+You Can Use This Application for your Personal use By Downloading the application from here: <br />
+<a href="https://drive.google.com/file/d/1BcPJEGrM4ETSdp_WJ5d6-dsLAa1cfk5A/view?usp=drivesdk">Download From Here</a>
+
+<h1><strong>Screenshorts</strong></h1>
+
 Here's Some Images 
 
 
@@ -19,9 +26,12 @@ Here's Some Images
 
 
 DownTube is Open Source so Here's the source code enjoy improving 
-
 Worked very hard to create This is not tested on more than 2 mobiles 
 
-Thank You
+<h1><strong>Buy Me A Coffee</strong></h1>
+  This application has no advertisement to show support 
+  <a heref="https://www.paypal.me/shivshacks">Buy me a coffee here</a>
+
+<strong>Thank You</strong>
 
 
