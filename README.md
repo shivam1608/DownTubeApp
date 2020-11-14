@@ -32,6 +32,8 @@ Worked very hard to create This is not tested on more than 2 mobiles
   This application has no advertisement to show support 
   <a href="https://www.paypal.me/shivshacks">Buy me a coffee here</a>
 
-<strong>Thank You</strong>
+
+
+<h3><strong>Thank You</strong></h3>
 
 
