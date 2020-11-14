@@ -30,7 +30,7 @@ Worked very hard to create This is not tested on more than 2 mobiles
 
 <h1><strong>Buy Me A Coffee</strong></h1>
   This application has no advertisement to show support 
-  <a heref="https://www.paypal.me/shivshacks">Buy me a coffee here</a>
+  <a href="https://www.paypal.me/shivshacks">Buy me a coffee here</a>
 
 <strong>Thank You</strong>
 
